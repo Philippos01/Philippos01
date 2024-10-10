@@ -36,8 +36,8 @@ I am **Filippos Priovolos**, a dedicated Data Analyst with a background in Softw
 ## About Me
 
 - **🔭 Current Focus**: Enhancing data processing efficiency and developing cutting-edge machine learning models.
-- **🌱 Continuous Learning**: Advancing my skills in MLOps technologies and sophisticated data visualization techniques.
-- **💬 Expertise**: Data analysis, Python programming, and creating impactful data visualizations.
+- **🌱 Continuous Learning**: Advancing my skills in MLOps technologies, Azure Cloud and sophisticated data visualization techniques.
+- **💬 Expertise**: Data analysis, Python programming, and Azure Databricks.
 - **📫 Contact**: [filippos.priovolos@gmail.com](mailto:filippos.priovolos@gmail.com)
 - **🌐 Online Presence**: [GitHub](https://github.com/Philippos01) | [LinkedIn](https://www.linkedin.com/in/Fpriovolos)
 
